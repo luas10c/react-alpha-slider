@@ -1,5 +1,6 @@
 {
   "name": "react-alpha-slider",
+  "main": "src",
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^16.4.2",
