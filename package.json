@@ -1,5 +1,16 @@
 {
   "name": "react-alpha-slider",
+  "description": "",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luas10c/react-alpha-slider.git"
+  },
+  "author": "luas10c",
+  "bugs": {
+    "url": "https://github.com/luas10c/react-alpha-slider/issues"
+  },
+  "homepage": "https://github.com/luas10c/react-alpha-slider#readme",
   "main": "src",
   "dependencies": {},
   "devDependencies": {
